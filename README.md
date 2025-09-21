@@ -85,8 +85,7 @@ Now,you can see file `test.txt`:
 ### Q3:
 #### Where can I find the full documentation?
 ### A3:
-#### Yes! Comprehensive documentation is available at [our website](https://your-docs-url.here).
-
+#### Sorry, our official documentation isn't ready yet.
 
 ## License
 ### This project is licensed under the MIT License - see the [License](LICENSE) file for details.
@@ -129,5 +128,6 @@ Now,you can see file `test.txt`:
 *written by Maintainer cnong*
 
 *September 20th, 2025*
+
 
 *10:56 PM*
